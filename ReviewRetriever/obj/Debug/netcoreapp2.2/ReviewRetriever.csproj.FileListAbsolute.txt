@@ -1,0 +1,9 @@
+C:\Users\caleb\source\repos\ReviewRetriever\ReviewRetriever\bin\Debug\netcoreapp2.2\ReviewRetriever.deps.json
+C:\Users\caleb\source\repos\ReviewRetriever\ReviewRetriever\bin\Debug\netcoreapp2.2\ReviewRetriever.runtimeconfig.json
+C:\Users\caleb\source\repos\ReviewRetriever\ReviewRetriever\bin\Debug\netcoreapp2.2\ReviewRetriever.runtimeconfig.dev.json
+C:\Users\caleb\source\repos\ReviewRetriever\ReviewRetriever\bin\Debug\netcoreapp2.2\ReviewRetriever.dll
+C:\Users\caleb\source\repos\ReviewRetriever\ReviewRetriever\bin\Debug\netcoreapp2.2\ReviewRetriever.pdb
+C:\Users\caleb\source\repos\ReviewRetriever\ReviewRetriever\obj\Debug\netcoreapp2.2\ReviewRetriever.AssemblyInfoInputs.cache
+C:\Users\caleb\source\repos\ReviewRetriever\ReviewRetriever\obj\Debug\netcoreapp2.2\ReviewRetriever.AssemblyInfo.cs
+C:\Users\caleb\source\repos\ReviewRetriever\ReviewRetriever\obj\Debug\netcoreapp2.2\ReviewRetriever.dll
+C:\Users\caleb\source\repos\ReviewRetriever\ReviewRetriever\obj\Debug\netcoreapp2.2\ReviewRetriever.pdb
